@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/650737/4e79bc12efef4f2ca6751ba5c83aa531
+bundleId: https://api.rpubs.com/api/v1/document/650737/4e79bc12efef4f2ca6751ba5c83aa531
+url: http://rpubs.com/alfazrinb/650737
+when: 1597894997.72968

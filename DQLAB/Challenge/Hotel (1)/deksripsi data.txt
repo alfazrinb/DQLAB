@@ -1,0 +1,31 @@
+**HOTEL_CITY**
+Surabaya : 108 hotel
+Malang	 :  91 hotel
+Solo	 :  76 hotel
+Semarang : 103 hotel
+Medan	 :  91 hotel
+Jakarta  : 312 hotel
+Bandung  : 214 hotel
+Jogja	 : 224 hotel
+==TOTAL==
+1199 hotel
+
+
+**REVIEWS**
+Surabaya:   469 review,  56 hotel
+Malang	:   120 review,  15 hotel
+Solo	:   373 review,  61 hotel
+Semarang:   277 review,  26 hotel
+Medan	:   120 review,  18 hotel
+Jakarta :  2595 review, 311 hotel
+Bandung :   264	review,  29 hotel
+Jogja 	:  1710 review, 192 hotel
+==TOTAL==
+4306 review, 708 hotel
+
+
+*NOTE*
+1. pada table review_hotel.xlsx ada beberapa hotel_id yang KOSONG diakrenakan data hotel tersebut 
+tidak ada pada data_hotel.xlsx atau tidak ada review pada hotel 
+2. banyak hotel tidak memiliki review namun datanya tetap dimasukkan
+3. ada beberapa hotel yang tidak dimasukkan karena ada error dalam proses scraping data
